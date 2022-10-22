@@ -1,0 +1,2 @@
+# to remove the existing git repository: rm -r .git
+node_modules
